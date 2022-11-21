@@ -18,6 +18,6 @@ Visit this page: [Text Inputs Part 2](https://tympanus.net/Development/TextInput
 Using what you have learned so far, recreate the following using HTML and CSS only:
 - Chisato
 - Fumi
-- Fumi
+- Ruri
 - Manami
 - Yoshiko
