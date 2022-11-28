@@ -26,13 +26,12 @@ Using what you have learned so far, recreate the following using HTML and CSS on
 
 - Vertical Slider https://youtu.be/T-zVfmmUrK0
 
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/embed/T-zVfmmUrK0"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>- Progress Slider https://youtu.be/NnA3sHK-L2o
+[![Vertical Slider](https://img.youtube.com/vi/T-zVfmmUrK0/default.jpg)](https://www.youtube.com/watch?v=T-zVfmmUrK0)
+
 - Hover Slider https://youtu.be/MAFrMyMlc10
+
+[![Hover Slider](https://img.youtube.com/vi/MAFrMyMlc10/default.jpg)](https://www.youtube.com/watch?v=MAFrMyMlc10)
+
+- Progress Slider https://youtu.be/NnA3sHK-L2o
+
+[![Progress Slider](https://img.youtube.com/vi/NnA3sHK-L2o/default.jpg)](https://www.youtube.com/watch?v=NnA3sHK-L2o)
