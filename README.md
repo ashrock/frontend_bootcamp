@@ -21,3 +21,18 @@ Using what you have learned so far, recreate the following using HTML and CSS on
 - Ruri
 - Manami
 - Yoshiko
+
+### Whole Page Slider Activities
+
+- Vertical Slider https://youtu.be/T-zVfmmUrK0
+
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/embed/T-zVfmmUrK0"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>- Progress Slider https://youtu.be/NnA3sHK-L2o
+- Hover Slider https://youtu.be/MAFrMyMlc10
